@@ -1,0 +1,38 @@
+id: ICC99B718
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T12:22:32.988132'
+last_modified: '2022-06-17T12:22:32.988141'
+parser: null
+source_metadata:
+  title: Kyerim Series
+  language: bo
+  description: 'Texts related to the generation or creation phase, known in Tibetan
+    as Kyerim (bskyed rim):'
+  volume:
+    fFA9D:
+      title: Advice on Yidam Practice
+      base_file: fFA9D.txt
+      order: 1
+      parent: Advice
+    f7778:
+      title: 'The Sweet Ambrosia of Immortality: Concise Instructions on the Generation
+        and Completion Phases of the Single-Form Daily Practice of the Heart Essence
+        of the Sublime Lady of Immortality'
+      base_file: f7778.txt
+      order: 2
+      parent: Instructions
+    f37F9:
+      title: A Clear, Concise and Simple Explanation of the Generation and Completion
+        Stages for the Benefit of Beginners
+      base_file: f37F9.txt
+      order: 3
+      parent: Instructions
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
